@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\bin\Debug\Sinifornekleri.exe.config
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\bin\Debug\Sinifornekleri.exe
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\bin\Debug\Sinifornekleri.pdb
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\obj\Debug\Sinifornekleri.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\obj\Debug\Sinifornekleri.Form1.resources
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\obj\Debug\Sinifornekleri.Properties.Resources.resources
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\obj\Debug\Sinifornekleri.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\obj\Debug\Sinifornekleri.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\obj\Debug\Sinifornekleri.exe
+C:\Users\Tuba\Desktop\Sinifornekleri\Sinifornekleri\obj\Debug\Sinifornekleri.pdb
