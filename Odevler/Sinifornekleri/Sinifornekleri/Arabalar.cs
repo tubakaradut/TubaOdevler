@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
+
 
 namespace Sinifornekleri
 {
@@ -114,10 +114,7 @@ namespace Sinifornekleri
                 {
                     _yil = value;
                 }
-                else 
-                {
-                    MessageBox.Show(" Elimizde 2000-2022 model araç bulunmaktadır. Buna dikkat ederek giris yapınız... ");
-                }
+               
             }
         }
 
