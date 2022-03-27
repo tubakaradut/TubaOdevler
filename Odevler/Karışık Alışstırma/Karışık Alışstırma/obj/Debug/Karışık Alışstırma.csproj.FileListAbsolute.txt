@@ -1,0 +1,10 @@
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\obj\Debug\Karışık Alışstırma.csproj.AssemblyReference.cache
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\obj\Debug\Karışık_Alışstırma.Form1.resources
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\obj\Debug\Karışık_Alışstırma.Properties.Resources.resources
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\obj\Debug\Karışık Alışstırma.csproj.GenerateResource.cache
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\obj\Debug\Karışık Alışstırma.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\bin\Debug\Karışık Alışstırma.exe.config
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\bin\Debug\Karışık Alışstırma.exe
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\bin\Debug\Karışık Alışstırma.pdb
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\obj\Debug\Karışık Alışstırma.exe
+C:\Users\Tuba\source\repos\Karışık Alışstırma\Karışık Alışstırma\obj\Debug\Karışık Alışstırma.pdb
