@@ -146,8 +146,7 @@ namespace Sinifornekleri
 
         }
 
-
-        private void btnSatinAl_Click(object sender, EventArgs e)
+        private void listView1_DoubleClick(object sender, EventArgs e)
         {
             bool sagliyormu = true;
 
@@ -173,8 +172,6 @@ namespace Sinifornekleri
                     break;
                 }
             }
-
-
 
             if (sagliyormu)
             {
