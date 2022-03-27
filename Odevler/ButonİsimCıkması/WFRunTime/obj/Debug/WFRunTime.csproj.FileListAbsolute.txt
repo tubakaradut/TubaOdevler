@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\obj\Debug\WFRunTime.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\obj\Debug\WFRunTime.Form1.resources
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\obj\Debug\WFRunTime.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\obj\Debug\WFRunTime.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\obj\Debug\WFRunTime.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\bin\Debug\WFRunTime.exe.config
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\bin\Debug\WFRunTime.exe
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\bin\Debug\WFRunTime.pdb
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\obj\Debug\WFRunTime.exe
+C:\Users\Tuba\Desktop\WFRunTime\WFRunTime\obj\Debug\WFRunTime.pdb

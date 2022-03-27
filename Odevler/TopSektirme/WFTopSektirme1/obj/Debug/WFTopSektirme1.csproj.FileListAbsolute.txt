@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\bin\Debug\WFTopSektirme1.exe.config
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\bin\Debug\WFTopSektirme1.exe
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\bin\Debug\WFTopSektirme1.pdb
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\obj\Debug\WFTopSektirme1.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\obj\Debug\WFTopSektirme1.Form1.resources
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\obj\Debug\WFTopSektirme1.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\obj\Debug\WFTopSektirme1.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\obj\Debug\WFTopSektirme1.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\obj\Debug\WFTopSektirme1.exe
+C:\Users\Tuba\Desktop\WFTopSektirme1\WFTopSektirme1\obj\Debug\WFTopSektirme1.pdb

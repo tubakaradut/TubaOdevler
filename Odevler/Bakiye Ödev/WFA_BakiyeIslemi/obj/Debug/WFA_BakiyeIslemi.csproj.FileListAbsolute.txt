@@ -1,0 +1,30 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Form1.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\03.03\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Form1.resources
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe.config
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\Tuba\Desktop\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.exe
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Form1.resources
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Properties.Resources.resources
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.exe
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe.config
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe
+C:\Users\Tuba\Desktop\Bakiye Ödev\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.pdb

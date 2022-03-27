@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\bin\Debug\WFSinema.exe.config
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\bin\Debug\WFSinema.exe
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\bin\Debug\WFSinema.pdb
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\obj\Debug\WFSinema.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\obj\Debug\WFSinema.Form1.resources
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\obj\Debug\WFSinema.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\obj\Debug\WFSinema.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\obj\Debug\WFSinema.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\obj\Debug\WFSinema.exe
+C:\Users\Tuba\Desktop\WFSinema\WFSinema\obj\Debug\WFSinema.pdb

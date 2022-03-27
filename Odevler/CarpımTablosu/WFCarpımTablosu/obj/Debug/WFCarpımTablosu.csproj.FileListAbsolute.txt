@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\bin\Debug\WFCarpımTablosu.exe.config
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\bin\Debug\WFCarpımTablosu.exe
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\bin\Debug\WFCarpımTablosu.pdb
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\obj\Debug\WFCarpımTablosu.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\obj\Debug\WFCarpımTablosu.Form1.resources
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\obj\Debug\WFCarpımTablosu.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\obj\Debug\WFCarpımTablosu.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\obj\Debug\WFCarpımTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\obj\Debug\WFCarpımTablosu.exe
+C:\Users\Tuba\Desktop\WFCarpımTablosu\WFCarpımTablosu\obj\Debug\WFCarpımTablosu.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFListView", "WFListView\WFListView.csproj", "{6D7B49EB-9669-463A-8071-C20C3B482C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D7B49EB-9669-463A-8071-C20C3B482C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7B49EB-9669-463A-8071-C20C3B482C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7B49EB-9669-463A-8071-C20C3B482C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7B49EB-9669-463A-8071-C20C3B482C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F548E8-BE4C-439B-9122-B38AE18A3644}
+	EndGlobalSection
+EndGlobal

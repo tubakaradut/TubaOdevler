@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\bin\Debug\WFBlackJack.exe.config
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\bin\Debug\WFBlackJack.exe
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\bin\Debug\WFBlackJack.pdb
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\obj\Debug\WFBlackJack.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\obj\Debug\WFBlackJack.Form1.resources
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\obj\Debug\WFBlackJack.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\obj\Debug\WFBlackJack.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\obj\Debug\WFBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\obj\Debug\WFBlackJack.exe
+C:\Users\Tuba\Desktop\WFBlackJack\WFBlackJack\obj\Debug\WFBlackJack.pdb

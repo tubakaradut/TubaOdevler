@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.exe.config
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.exe
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.pdb
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.Form1.resources
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.exe
+C:\Users\Tuba\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.pdb

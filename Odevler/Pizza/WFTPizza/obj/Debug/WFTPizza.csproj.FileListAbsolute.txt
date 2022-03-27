@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\bin\Debug\WFTPizza.exe.config
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\bin\Debug\WFTPizza.exe
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\bin\Debug\WFTPizza.pdb
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\obj\Debug\WFTPizza.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\obj\Debug\WFTPizza.Form1.resources
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\obj\Debug\WFTPizza.Properties.Resources.resources
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\obj\Debug\WFTPizza.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\obj\Debug\WFTPizza.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\obj\Debug\WFTPizza.exe
+C:\Users\Tuba\Desktop\WFTPizza\WFTPizza\obj\Debug\WFTPizza.pdb
