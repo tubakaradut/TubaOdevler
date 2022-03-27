@@ -36,10 +36,6 @@ namespace WFA_SayisalLoto
             }
 
 
-
-
-
-
             //for (int i = 0; i < tahmin1.Length; i++)
             //{
             //    int rastgeleSayi = rnd.Next(1, 50);
