@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\bin\Debug\Hamburgerr.exe.config
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\bin\Debug\Hamburgerr.exe
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\bin\Debug\Hamburgerr.pdb
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\obj\Debug\Hamburgerr.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\obj\Debug\Hamburgerr.Form1.resources
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\obj\Debug\Hamburgerr.Properties.Resources.resources
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\obj\Debug\Hamburgerr.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\obj\Debug\Hamburgerr.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\obj\Debug\Hamburgerr.exe
+C:\Users\Tuba\Desktop\Hamburgerr\Hamburgerr\obj\Debug\Hamburgerr.pdb
