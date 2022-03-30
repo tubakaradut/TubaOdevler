@@ -259,8 +259,9 @@ listboxlar içerisinde fiyatlar kdv hariç sepete eklenildiğinde kdv dahil olar
             lstMont.SelectedIndex = -1;
             lstPantolon.SelectedIndex = -1;
             lstTshirt.SelectedIndex = -1;
+            lblToplamTutar.Text = "0";
 
-
+            
         }
     }
 }

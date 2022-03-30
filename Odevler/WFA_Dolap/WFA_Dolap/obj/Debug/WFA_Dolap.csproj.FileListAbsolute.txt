@@ -18,3 +18,13 @@ C:\Users\Tuba\Desktop\Github\OOP\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dol
 C:\Users\Tuba\Desktop\Github\OOP\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.CoreCompileInputs.cache
 C:\Users\Tuba\Desktop\Github\OOP\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.exe
 C:\Users\Tuba\Desktop\Github\OOP\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.pdb
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.exe.config
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.exe
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.pdb
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.Form1.resources
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.Properties.Resources.resources
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.exe
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.pdb
