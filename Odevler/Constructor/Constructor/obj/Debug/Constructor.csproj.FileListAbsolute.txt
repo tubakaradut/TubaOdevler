@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\obj\Debug\Constructor.Properties.Resources.resources
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\obj\Debug\Constructor.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\obj\Debug\Constructor.pdb
+C:\Users\Tuba\Desktop\TubaOdevler\Odevler\Constructor\Constructor\obj\Debug\Constructor.Form1.resources
