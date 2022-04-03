@@ -8,12 +8,6 @@ namespace HastaneRandevu
 {
  public   class Brans
     {
-        public Brans()
-        {
-           
-        }
-       
-
         public static List<Brans> BransListesi = new List<Brans>();
 
         public string BransAd { get; set; }
