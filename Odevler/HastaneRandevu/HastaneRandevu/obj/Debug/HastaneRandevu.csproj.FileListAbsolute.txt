@@ -1,0 +1,14 @@
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\bin\Debug\HastaneRandevu.exe.config
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\bin\Debug\HastaneRandevu.exe
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\bin\Debug\HastaneRandevu.pdb
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.BransForm.resources
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.DoktorForm.resources
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.RandevuForm.resources
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.Properties.Resources.resources
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.exe
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.pdb
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.LoginForm.resources
+C:\Users\Tuba\Desktop\HastaneRandevu\HastaneRandevu\obj\Debug\HastaneRandevu.RandevuSaatiFormu.resources
