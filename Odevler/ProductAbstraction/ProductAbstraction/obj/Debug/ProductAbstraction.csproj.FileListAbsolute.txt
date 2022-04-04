@@ -1,0 +1,13 @@
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\bin\Debug\ProductAbstraction.exe.config
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\bin\Debug\ProductAbstraction.exe
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\bin\Debug\ProductAbstraction.pdb
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.CategoryForm.resources
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.Form1.resources
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.ProductForm.resources
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.Properties.Resources.resources
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.exe
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.pdb
+C:\Users\Tuba\Desktop\TubaOdevler\ProductAbstraction\ProductAbstraction\obj\Debug\ProductAbstraction.SupplierForm.resources
