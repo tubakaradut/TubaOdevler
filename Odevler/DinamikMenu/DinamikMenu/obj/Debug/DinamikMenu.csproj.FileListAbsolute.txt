@@ -1,0 +1,12 @@
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\bin\Debug\DinamikMenu.exe.config
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\bin\Debug\DinamikMenu.exe
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\bin\Debug\DinamikMenu.pdb
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.LoginForm.resources
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.Properties.Resources.resources
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.exe
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.pdb
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.AdminForm.resources
+C:\Users\Tuba\Desktop\DinamikMenu\DinamikMenu\obj\Debug\DinamikMenu.HamburgerForm.resources
