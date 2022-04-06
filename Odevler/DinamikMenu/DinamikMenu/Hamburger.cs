@@ -38,7 +38,6 @@ namespace DinamikMenu
             return $"{Adi} menu guncelledi";
         }
 
-
         public override string ToString()
         {
             return $"{Adi } {Fiyati} TL";
