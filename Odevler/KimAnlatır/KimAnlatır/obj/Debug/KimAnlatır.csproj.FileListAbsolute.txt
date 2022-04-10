@@ -1,0 +1,10 @@
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\bin\Debug\KimAnlatır.exe.config
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\bin\Debug\KimAnlatır.exe
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\bin\Debug\KimAnlatır.pdb
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\obj\Debug\KimAnlatır.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\obj\Debug\KimAnlatır.Form1.resources
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\obj\Debug\KimAnlatır.Properties.Resources.resources
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\obj\Debug\KimAnlatır.csproj.GenerateResource.cache
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\obj\Debug\KimAnlatır.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\obj\Debug\KimAnlatır.exe
+C:\Users\Tuba\Desktop\KimAnlatır\KimAnlatır\obj\Debug\KimAnlatır.pdb
