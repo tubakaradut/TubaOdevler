@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB746819-7F2D-4634-9575-9457B1BF3C2A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KitapKafe</RootNamespace>
+    <AssemblyName>KitapKafe</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClass.cs" />
+    <Compile Include="Boyut.cs" />
+    <Compile Include="IcecekEkstraOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IcecekEkstraOlustur.Designer.cs">
+      <DependentUpon>IcecekEkstraOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapEkstra.cs" />
+    <Compile Include="KitapEkstraOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapEkstraOlustur.Designer.cs">
+      <DependentUpon>KitapEkstraOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Icecek.cs" />
+    <Compile Include="IcecekEkstra.cs" />
+    <Compile Include="IcecekOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IcecekOlustur.Designer.cs">
+      <DependentUpon>IcecekOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IcecekSiparisOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IcecekSiparisOlustur.Designer.cs">
+      <DependentUpon>IcecekSiparisOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kitap.cs" />
+    <Compile Include="KitapOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapOlustur.Designer.cs">
+      <DependentUpon>KitapOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Siparis.cs" />
+    <Compile Include="Siparisler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Siparisler.Designer.cs">
+      <DependentUpon>Siparisler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSiparisOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapSiparisOlustur.Designer.cs">
+      <DependentUpon>KitapSiparisOlustur.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="IcecekEkstraOlustur.resx">
+      <DependentUpon>IcecekEkstraOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapEkstraOlustur.resx">
+      <DependentUpon>KitapEkstraOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IcecekOlustur.resx">
+      <DependentUpon>IcecekOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IcecekSiparisOlustur.resx">
+      <DependentUpon>IcecekSiparisOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapOlustur.resx">
+      <DependentUpon>KitapOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="KitapSiparisOlustur.resx">
+      <DependentUpon>KitapSiparisOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Siparisler.resx">
+      <DependentUpon>Siparisler.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
