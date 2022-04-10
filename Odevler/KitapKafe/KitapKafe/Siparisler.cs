@@ -17,21 +17,17 @@ namespace KitapKafe
             InitializeComponent();
         }
 
-        decimal ciro = 0;
-        decimal ekstraMalzemeGeliri = 0;
-        int satisAdet = 0;
-
         private void Siparisler_Load(object sender, EventArgs e)
         {
-
+            decimal ciro = 0;
+            decimal ekstraMalzemeGeliri = 0;
+            int satisAdet = 0;
             int toplamAdet = 0;
-
             string format = "";
             if (Siparis.siparisListesi.Count > 0)
             {
                 foreach (Siparis siparis in Siparis.siparisListesi)
                 {
-
                     if (siparis.SeciliKitap != null)
                     {
                         if (siparis.EkitapListesi != null && siparis.EkitapListesi.Count > 0)

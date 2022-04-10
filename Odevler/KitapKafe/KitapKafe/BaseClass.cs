@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KitapKafe
 {
- public    class BaseClass
+ public  abstract  class BaseClass
     {
         public string Adi  { get; set; }
         public decimal Fiyati { get; set; }

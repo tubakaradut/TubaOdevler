@@ -19,6 +19,7 @@ namespace KitapKafe
         decimal toplamkitapTutar = 0;
 
         public static List<Siparis> siparisListesi = new List<Siparis>();
+
         public static List<Kitap> KitapListesi = new List<Kitap>()
         {
             new Kitap{Kitapadi="Şeker Portakalı",Yazari="Jose Mauro De Vasconceles",Fiyati=22},
