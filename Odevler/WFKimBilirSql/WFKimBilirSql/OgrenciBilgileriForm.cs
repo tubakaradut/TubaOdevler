@@ -103,5 +103,30 @@ namespace WFKimBilirSql
                 btnKaydet.Enabled = false;
             }
         }
+
+        public void GetOgrenciArama(string aranacak)
+        {
+            listView1.Items.Clear();
+
+            foreach (Ogrenciler ogrenci in db.Ogrencilers.Where(x=>x.Ad.StartsWith(aranacak)|| x.Soyad.StartsWith(aranacak)))
+            {
+                ListViewItem lvi = new ListViewItem();
+                lvi.Text = ogrenci.Id.ToString();
+                lvi.SubItems.Add(ogrenci.Ad);
+                lvi.SubItems.Add(ogrenci.Soyad);
+                lvi.SubItems.Add(ogrenci.Puan.ToString());
+                lvi.SubItems.Add(ogrenci.Facebook);
+                lvi.SubItems.Add(ogrenci.Twitter);
+                lvi.SubItems.Add(ogrenci.Github);
+                lvi.Tag = ogrenci;
+                listView1.Items.Add(lvi);
+            }
+        }
+
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            GetOgrenciArama(textBox1.Text);
+        }
     }
 }

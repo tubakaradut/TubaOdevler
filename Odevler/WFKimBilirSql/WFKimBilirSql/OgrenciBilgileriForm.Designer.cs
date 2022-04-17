@@ -35,10 +35,16 @@
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnSil = new System.Windows.Forms.Button();
             this.btnGuncelle = new System.Windows.Forms.Button();
-            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtGithub = new System.Windows.Forms.TextBox();
+            this.txtTwitter = new System.Windows.Forms.TextBox();
+            this.txtFacebook = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.btnKaydet = new System.Windows.Forms.Button();
             this.txtPuan = new System.Windows.Forms.TextBox();
             this.txtSoyad = new System.Windows.Forms.TextBox();
@@ -46,12 +52,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.txtGithub = new System.Windows.Forms.TextBox();
-            this.txtTwitter = new System.Windows.Forms.TextBox();
-            this.txtFacebook = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -106,6 +108,11 @@
             this.columnHeader6.Text = "Twitter";
             this.columnHeader6.Width = 208;
             // 
+            // columnHeader7
+            // 
+            this.columnHeader7.Text = "Github";
+            this.columnHeader7.Width = 161;
+            // 
             // btnSil
             // 
             this.btnSil.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -127,11 +134,6 @@
             this.btnGuncelle.Text = "GÜNCELLE";
             this.btnGuncelle.UseVisualStyleBackColor = true;
             this.btnGuncelle.Click += new System.EventHandler(this.btnGuncelle_Click);
-            // 
-            // columnHeader7
-            // 
-            this.columnHeader7.Text = "Github";
-            this.columnHeader7.Width = 161;
             // 
             // groupBox1
             // 
@@ -155,6 +157,54 @@
             this.groupBox1.TabIndex = 12;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Kişi Bilgisi";
+            // 
+            // txtGithub
+            // 
+            this.txtGithub.Location = new System.Drawing.Point(428, 115);
+            this.txtGithub.Name = "txtGithub";
+            this.txtGithub.Size = new System.Drawing.Size(163, 26);
+            this.txtGithub.TabIndex = 6;
+            // 
+            // txtTwitter
+            // 
+            this.txtTwitter.Location = new System.Drawing.Point(428, 75);
+            this.txtTwitter.Name = "txtTwitter";
+            this.txtTwitter.Size = new System.Drawing.Size(163, 26);
+            this.txtTwitter.TabIndex = 7;
+            // 
+            // txtFacebook
+            // 
+            this.txtFacebook.Location = new System.Drawing.Point(428, 31);
+            this.txtFacebook.Name = "txtFacebook";
+            this.txtFacebook.Size = new System.Drawing.Size(163, 26);
+            this.txtFacebook.TabIndex = 8;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(302, 118);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(61, 20);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Github:";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(303, 75);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(60, 20);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "Twitter:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(303, 34);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(84, 20);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Facebook:";
             // 
             // btnKaydet
             // 
@@ -214,59 +264,31 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Ad:";
             // 
-            // label4
+            // button1
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(302, 118);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(61, 20);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Github:";
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button1.Location = new System.Drawing.Point(724, 383);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 56);
+            this.button1.TabIndex = 13;
+            this.button1.Text = "SİL";
+            this.button1.UseVisualStyleBackColor = true;
             // 
-            // label5
+            // textBox1
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(303, 75);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(60, 20);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Twitter:";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(303, 34);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(84, 20);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Facebook:";
-            // 
-            // txtGithub
-            // 
-            this.txtGithub.Location = new System.Drawing.Point(428, 115);
-            this.txtGithub.Name = "txtGithub";
-            this.txtGithub.Size = new System.Drawing.Size(163, 26);
-            this.txtGithub.TabIndex = 6;
-            // 
-            // txtTwitter
-            // 
-            this.txtTwitter.Location = new System.Drawing.Point(428, 75);
-            this.txtTwitter.Name = "txtTwitter";
-            this.txtTwitter.Size = new System.Drawing.Size(163, 26);
-            this.txtTwitter.TabIndex = 7;
-            // 
-            // txtFacebook
-            // 
-            this.txtFacebook.Location = new System.Drawing.Point(428, 31);
-            this.txtFacebook.Name = "txtFacebook";
-            this.txtFacebook.Size = new System.Drawing.Size(163, 26);
-            this.txtFacebook.TabIndex = 8;
+            this.textBox1.Location = new System.Drawing.Point(742, 452);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(163, 20);
+            this.textBox1.TabIndex = 14;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // OgrenciBilgileriForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(948, 529);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnGuncelle);
             this.Controls.Add(this.btnSil);
@@ -277,6 +299,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -306,5 +329,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }

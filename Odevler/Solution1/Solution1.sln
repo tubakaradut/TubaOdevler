@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcces", "DataAcces\DataAcces.csproj", "{91B35E9E-2783-4823-BC21-EDAAA29FD24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{101BA743-64CF-4F7A-8136-3BC0536499E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFUI", "WFUI\WFUI.csproj", "{EA42FEC8-677E-48FD-A272-E2C0669A5040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B35E9E-2783-4823-BC21-EDAAA29FD24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B35E9E-2783-4823-BC21-EDAAA29FD24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B35E9E-2783-4823-BC21-EDAAA29FD24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B35E9E-2783-4823-BC21-EDAAA29FD24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101BA743-64CF-4F7A-8136-3BC0536499E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101BA743-64CF-4F7A-8136-3BC0536499E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101BA743-64CF-4F7A-8136-3BC0536499E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101BA743-64CF-4F7A-8136-3BC0536499E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA42FEC8-677E-48FD-A272-E2C0669A5040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA42FEC8-677E-48FD-A272-E2C0669A5040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA42FEC8-677E-48FD-A272-E2C0669A5040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA42FEC8-677E-48FD-A272-E2C0669A5040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6880339D-6D2C-44B5-96BA-69B21EE6C1A8}
+	EndGlobalSection
+EndGlobal
