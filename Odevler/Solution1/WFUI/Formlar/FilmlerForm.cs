@@ -79,26 +79,6 @@ namespace WFUI.Formlar
 
             GetMovieList();
 
-            //List<int> categoryIdList = new List<int>();
-            //foreach (var checkedItem in checkedListBox1.CheckedItems)
-            //{
-            //    string categoryName = checkedItem.ToString();
-
-            //    int categoryId = categoryService.SelectedCategoryId(categoryName);
-            //    if (categoryId > 0)
-            //    {
-            //        categoryIdList.Add(categoryId);
-            //    }
-            //}
-
-            //Movie returnMovie = movieService.CreatedMovie(movie);
-
-            //foreach (var categoryId in categoryIdList)
-            //{
-
-            //}
-
-
         }
 
         private void btnListele_Click(object sender, EventArgs e)
