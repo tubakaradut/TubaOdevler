@@ -1,0 +1,7 @@
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\SolidOrnekler1-2\bin\Debug\SolidOrnekler1-2.exe.config
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\SolidOrnekler1-2\bin\Debug\SolidOrnekler1-2.exe
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\SolidOrnekler1-2\bin\Debug\SolidOrnekler1-2.pdb
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\SolidOrnekler1-2\obj\Debug\SolidOrnekler1-2.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\SolidOrnekler1-2\obj\Debug\SolidOrnekler1-2.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\SolidOrnekler1-2\obj\Debug\SolidOrnekler1-2.exe
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\SolidOrnekler1-2\obj\Debug\SolidOrnekler1-2.pdb

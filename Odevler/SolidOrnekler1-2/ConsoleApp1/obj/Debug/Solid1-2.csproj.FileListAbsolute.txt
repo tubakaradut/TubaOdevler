@@ -1,0 +1,7 @@
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\ConsoleApp1\obj\Debug\Solid1-2.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Tuba\Desktop\SolidOrnekler1-2\ConsoleApp1\obj\Debug\Solid1-2.csproj.AssemblyReference.cache
